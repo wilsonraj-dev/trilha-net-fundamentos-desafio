@@ -1,4 +1,4 @@
-# DIO - Trilha .NET - Fundamentos
+<h1 align="center">DIO - Trilha .NET - Fundamentos</h1>
 www.dio.me
 
 ## Desafio de projeto
@@ -9,7 +9,7 @@ Você foi contratado para construir um sistema para um estacionamento, que será
 
 ## Proposta
 Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo:
-![Diagrama de classe estacionamento](images/diagrama_classe_estacionamento.png)
+![Diagrama de classe estacionamento](diagrama_classe_estacionamento.png)
 
 A classe contém três variáveis, sendo:
 
@@ -36,3 +36,18 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Melhorias
+Conclusão do projeto e adição de novas funcionalidades, além de alterações na estrutura inicial do projeto.
+
+### Validação de uma placa usando Regex
+
+<p align="left">
+  <img width="800" height="520" src="DesafioFundamentos/images/Regex.png">
+</p>
+
+### Criação de uma classe Model
+
+<p align="left">
+  <img width="800" height="550" src="DesafioFundamentos/images/Veiculo.png">
+</p>
